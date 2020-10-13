@@ -27,23 +27,6 @@ Following some these tutorials and pipelines from AWS Knowledge Center:
 - **[POST] /send/email**: Start the massive send of emails. Follow the Postman Collection 
 
 
-## Postman Collection
-If you want to test the API inside of Postman you can do it!
-
-[![Run Email Campaign in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/44505c20166119e83159)
-
-
-## Steps for Running
-
-- Clone the project.
-
-- Install dependencies.
-
-        npm install
-- Run the app.
-
-        node app
-
 
 ## Notes
 
